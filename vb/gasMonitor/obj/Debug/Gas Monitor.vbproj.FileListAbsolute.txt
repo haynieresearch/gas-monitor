@@ -1,0 +1,17 @@
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\bin\Debug\Gas Monitor.exe.config
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\bin\Debug\Gas Monitor.exe
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\bin\Debug\Gas Monitor.pdb
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\bin\Debug\Gas Monitor.xml
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas_Monitor.GasMonitor.resources
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas_Monitor.Resources.resources
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.vbproj.GenerateResource.Cache
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.exe
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.xml
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.pdb
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.vbprojResolveAssemblyReference.cache
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.TrustInfo.xml
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\bin\Debug\Gas Monitor.exe.manifest
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\bin\Debug\Gas Monitor.application
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.exe.manifest
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas Monitor.application
+H:\Development\Visual Basic\Projects\Gas Monitor\Gas Monitor\obj\Debug\Gas_Monitor.SplashScreen.resources
